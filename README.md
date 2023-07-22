@@ -2,8 +2,8 @@
 Python+Yolov8 Statistics of the number of people at the entrance and exit进出口人流量统计
 
 **程序示例精选**  
-Python+Yolov5苹果水果检测识别  
-如需安装运行环境或远程调试，见文章底部名片(QQ:2945218359)，由专业技术人员远程协助！
+**Python+Yolov5苹果水果检测识别**  
+**如需安装运行环境或远程调试，见文章底部名片(QQ:2945218359)，由专业技术人员远程协助！**
 
 ## 前言
 这篇源码针对<<Python+Yolov5苹果水果检测识别>>编写代码，代码整洁，规则，易读。 学习与应用推荐首选。
